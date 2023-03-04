@@ -24,12 +24,5 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 {CURRENT_PLAYING_ARTISTS} - {CURRENT_PLAYING_NAME}
 
 **Albums**: {CURRENT_PLAYING_ALBUM}
-=======
-{CURRENT_PLAYING_SOURCE}
-{CURRENT_PLAYING_NAME}
-{CURRENT_PLAYING_ARTISTS}
-{CURRENT_PLAYING_ALBUM}
-{CURRENT_PLAYING_RELEASED}
 
-<img src=`{{CURRENT_PLAYING_ALBUM_SRC}}`>
->>>>>>> master
+

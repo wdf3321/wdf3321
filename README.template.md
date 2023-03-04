@@ -8,6 +8,7 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 />&emsp;<img align="center" src="assets/Bootstrap_logo.svg.png" width="5%"
 />&emsp;<img align="center" src="assets/sass.png" width="5%"
 />&emsp;<img align="center" src="assets/Quasar_Logo.png" width="5%"
+/>&emsp;<img align="center" src="assets/Vuetify.svg" width="5%"
 />&emsp;<img align="center" src="assets/git.png" width="5%"
 />&emsp;<img align="center" src="assets/node.png" width="5%"
 />&emsp;<img align="center" src="assets/mongodb.png" width="5%"

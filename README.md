@@ -19,10 +19,10 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/eCIta9QeIjzJIl-oxOLZwV_t6OAFQOsLG76j6ylubepq7mFcsmrmyl7hD5gcl5n8CV72hzYqvXV9N5yw">](https://music.youtube.com/watch?v=aHR8zak8Xsc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Qa8CGFNofR7D_Kj8yiqEuRcvG8EjBPyxdjQi0DZPv6zY51hd-4askcR0NPlZYSTD6BnaLgoys1xyS_XE">](https://music.youtube.com/watch?v=sG41nygwR2c)
 
-STAYC - ASAP
+FIFTY FIFTY - Cupid (Twin Version)
 
-**Albums**: STAYDOM
+**Albums**: The Beginning: Cupid
 
 

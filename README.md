@@ -19,10 +19,10 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/qXiRlwQpdEAuBQeQ07GLWDjNcMJCNvVX0qHz_SZdLgm7xwztr13tZNyYhce8DTHdS92BvI-4RUnJcodJYA">](https://music.youtube.com/watch?v=B3gcaC2FmOg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Z9eRe-9--V-57CN6RPJ_bhHYCwZCW1Wn6L22hLVUOEr-d6NQqjyKx8WsfZxOA8CX3FubX6VC5Blwy_CB">](https://music.youtube.com/watch?v=EoO2MTDkpJA)
 
-XG - SHOOTING STAR
+STAYC - Teddy Bear
 
-**Albums**: SHOOTING STAR
+**Albums**: Teddy Bear
 
 

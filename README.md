@@ -19,10 +19,10 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rtmKpIxqdJIq6xVbDoEIwGWsH75NvtlkvKPzvnrViYjEumZLdkr4W4MwmgB1DAZW83OMBr9f89nNdbp1Gw">](https://music.youtube.com/watch?v=Y4JQokTmBTA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/yg7U52lN4NMHddFXE1de6d99puDNeC-1U6q5PnLjXPatrexqW9AOoWC8a5EJBULlXraaEWU8OvKrFYrp1A">](https://music.youtube.com/watch?v=8QWtOgBJZNc)
 
-부석순 (SEVENTEEN) - 파이팅 해야지（feat. 이영지）
+NewJeans - Hurt
 
-**Albums**: BSS 1st Single Album 'SECOND WIND'
+**Albums**: Not supported
 
 

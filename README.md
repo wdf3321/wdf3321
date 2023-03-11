@@ -19,10 +19,10 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Zkk_jGQgpi2xShYOtrLbb9Aw3INchh0AWRQRiDVhyw7RMPXAs5dbejgRMC7neOjmBZp2PB5eqvk4oAnItQ">](https://music.youtube.com/watch?v=OXWz_x6-dro)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Isd5ViaHLbg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Isd5ViaHLbg)
 
-Red Velvet - Feel My Rhythm
+fromis_9 - [fl▶️ylist] '竹内まりや(Takeuchi Mariya)- Plastic Love' cover by 하영
 
-**Albums**: 'The ReVe Festival 2022 - Feel My Rhythm'
+**Albums**: 101万 回視聴
 
 

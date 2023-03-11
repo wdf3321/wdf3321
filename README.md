@@ -19,10 +19,10 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wO1e34ZIcA1kJp5IXYqt2JGE2IxrajoiHM_04M9Pgk8RqSxVBsAw1EK4DOuzb_r6NG1d8f9LHN4pcTLo">](https://music.youtube.com/watch?v=SZiwpL62to8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/AIWIRhfv7TSDb1IvZbQiBj6fVxFeTNPUU_yJAYJ7-p4BFQTMFoB54L2_AS09LyZmmb53E0i5mwOoz753">](https://music.youtube.com/watch?v=GpLM6eLLnN4)
 
-LE SSERAFIM - ANTIFRAGILE
+tripleS - Generation
 
-**Albums**: ANTIFRAGILE
+**Albums**: Acid Angel from Asia <ACCESS>
 
 

@@ -19,10 +19,10 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Isd5ViaHLbg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Isd5ViaHLbg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/kjzP_FU_tfRLhRDVZW4qdZnK9I7Ojn4NGnj9SsYKxH62YAW9kE_bFtt9cfQOQRQqHNGazmbSnoWG5qI">](https://music.youtube.com/watch?v=tc0oZUyMW1M)
 
-fromis_9 - [fl▶️ylist] '竹内まりや(Takeuchi Mariya)- Plastic Love' cover by 하영
+fromis_9 - Sea of Moonlight
 
-**Albums**: 101万 回視聴
+**Albums**: Sea of Moonlight
 
 

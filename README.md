@@ -19,10 +19,10 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/yg7U52lN4NMHddFXE1de6d99puDNeC-1U6q5PnLjXPatrexqW9AOoWC8a5EJBULlXraaEWU8OvKrFYrp1A">](https://music.youtube.com/watch?v=ghrlZIMDzbM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/AaOD6pswVtfEJE4RKsbeMAWe76F-Xgd263fHcqwQ1dxzt1vU71nauPpvrYDxrY0zDxX76xmbxutaQizxOQ">](https://music.youtube.com/watch?v=F2Y0Q9blUPk)
 
-NewJeans - Hype Boy
+TWICE - Talk that Talk
 
-**Albums**: NewJeans 1st EP 'New Jeans'
+**Albums**: BETWEEN 1&2
 
 

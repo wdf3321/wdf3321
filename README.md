@@ -19,10 +19,10 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/qXiRlwQpdEAuBQeQ07GLWDjNcMJCNvVX0qHz_SZdLgm7xwztr13tZNyYhce8DTHdS92BvI-4RUnJcodJYA">](https://music.youtube.com/watch?v=B3gcaC2FmOg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wO1e34ZIcA1kJp5IXYqt2JGE2IxrajoiHM_04M9Pgk8RqSxVBsAw1EK4DOuzb_r6NG1d8f9LHN4pcTLo">](https://music.youtube.com/watch?v=SZiwpL62to8)
 
-XG - SHOOTING STAR
+LE SSERAFIM - ANTIFRAGILE
 
-**Albums**: SHOOTING STAR
+**Albums**: ANTIFRAGILE
 
 

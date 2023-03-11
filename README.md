@@ -19,10 +19,10 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/AaOD6pswVtfEJE4RKsbeMAWe76F-Xgd263fHcqwQ1dxzt1vU71nauPpvrYDxrY0zDxX76xmbxutaQizxOQ">](https://music.youtube.com/watch?v=F2Y0Q9blUPk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Zkk_jGQgpi2xShYOtrLbb9Aw3INchh0AWRQRiDVhyw7RMPXAs5dbejgRMC7neOjmBZp2PB5eqvk4oAnItQ">](https://music.youtube.com/watch?v=OXWz_x6-dro)
 
-TWICE - Talk that Talk
+Red Velvet - Feel My Rhythm
 
-**Albums**: BETWEEN 1&2
+**Albums**: 'The ReVe Festival 2022 - Feel My Rhythm'
 
 

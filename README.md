@@ -19,10 +19,10 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/znHW7BLJsAeOh0gSUlje4XtVukq-7Rgp3JzP0YortjwVT5c_zvQZESm78DdJaSUjPqHtySeRaku2oAZ5">](https://music.youtube.com/watch?v=dj7HLV6VLGg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qXiRlwQpdEAuBQeQ07GLWDjNcMJCNvVX0qHz_SZdLgm7xwztr13tZNyYhce8DTHdS92BvI-4RUnJcodJYA">](https://music.youtube.com/watch?v=B3gcaC2FmOg)
 
-YENA - Love War（feat. BE'O）
+XG - SHOOTING STAR
 
-**Albums**: Love War
+**Albums**: SHOOTING STAR
 
 

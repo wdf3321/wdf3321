@@ -1,5 +1,4 @@
 
-![profile views](https://komarev.com/ghpvc/?username=wdf3321)
 # About me
 Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills and due to the passion for web design, UI/UX, I decided to say "Hello, world." to the front-end development and web world.
 ## Languages and Frameworks
@@ -26,5 +25,8 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 {CURRENT_PLAYING_ARTISTS} - {CURRENT_PLAYING_NAME}
 
 **Albums**: {CURRENT_PLAYING_ALBUM}
+
+
+![profile views](https://komarev.com/ghpvc/?username=wdf3321)
 
 

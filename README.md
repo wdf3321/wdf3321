@@ -21,10 +21,10 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8iS1XD6ZH8mOW1N1RrNIoEkJpYCyXKf1n0HJeDhxmOj0XVH3b0HUoUrgDz_4i9fw4LSMBEL44mR_MOo">](https://music.youtube.com/watch?v=QT60l6MSoz8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/MGMyYgKGVBWN5Nws_Re-d5VtLikXCHevL3MDMI7CGaXCtrpMNNxRu8xH44nIhSnKoePBDcDxNQHvoSAb">](https://music.youtube.com/watch?v=BZqfL_2CzKg)
 
-fromis_9 - DM
+IU - BBIBBI
 
-**Albums**: Midnight Guest
+**Albums**: BBIBBI
 
 

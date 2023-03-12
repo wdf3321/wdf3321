@@ -1,5 +1,4 @@
 
-![profile views](https://komarev.com/ghpvc/?username=wdf3321)
 # About me
 Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills and due to the passion for web design, UI/UX, I decided to say "Hello, world." to the front-end development and web world.
 ## Languages and Frameworks
@@ -21,10 +20,13 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/yg7U52lN4NMHddFXE1de6d99puDNeC-1U6q5PnLjXPatrexqW9AOoWC8a5EJBULlXraaEWU8OvKrFYrp1A">](https://music.youtube.com/watch?v=ghrlZIMDzbM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jRELX5qAew8CuPt1mAzv_51WgcWjY08kCbK051wB4MX8B_4K9CgUVX5YHqxRwPoFhoNQZ69vbY03tL6S">](https://music.youtube.com/watch?v=hh5GKVa8VtM)
 
-NewJeans - Hype Boy
+IVE - LOVE DIVE
 
-**Albums**: NewJeans 1st EP 'New Jeans'
+**Albums**: LOVE DIVE
+
+
+![profile views](https://komarev.com/ghpvc/?username=wdf3321)
 
 

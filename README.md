@@ -1,6 +1,3 @@
-
-![profile views](https://komarev.com/ghpvc/?username=rogeraabbccdd)
-
 # About me
 Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills and due to the passion for web design, UI/UX, I decided to say "Hello, world." to the front-end development and web world.
 ## Languages and Frameworks
@@ -22,10 +19,10 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/kjzP_FU_tfRLhRDVZW4qdZnK9I7Ojn4NGnj9SsYKxH62YAW9kE_bFtt9cfQOQRQqHNGazmbSnoWG5qI">](https://music.youtube.com/watch?v=tc0oZUyMW1M)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/AIWIRhfv7TSDb1IvZbQiBj6fVxFeTNPUU_yJAYJ7-p4BFQTMFoB54L2_AS09LyZmmb53E0i5mwOoz753">](https://music.youtube.com/watch?v=GpLM6eLLnN4)
 
-fromis_9 - Sea of Moonlight
+tripleS - Generation
 
-**Albums**: Sea of Moonlight
+**Albums**: Acid Angel from Asia <ACCESS>
 
 

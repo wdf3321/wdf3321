@@ -1,3 +1,5 @@
+
+![profile views](https://komarev.com/ghpvc/?username=wdf3321)
 # About me
 Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills and due to the passion for web design, UI/UX, I decided to say "Hello, world." to the front-end development and web world.
 ## Languages and Frameworks
@@ -19,10 +21,10 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/AIWIRhfv7TSDb1IvZbQiBj6fVxFeTNPUU_yJAYJ7-p4BFQTMFoB54L2_AS09LyZmmb53E0i5mwOoz753">](https://music.youtube.com/watch?v=GpLM6eLLnN4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8iS1XD6ZH8mOW1N1RrNIoEkJpYCyXKf1n0HJeDhxmOj0XVH3b0HUoUrgDz_4i9fw4LSMBEL44mR_MOo">](https://music.youtube.com/watch?v=QT60l6MSoz8)
 
-tripleS - Generation
+fromis_9 - DM
 
-**Albums**: Acid Angel from Asia <ACCESS>
+**Albums**: Midnight Guest
 
 

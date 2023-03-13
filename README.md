@@ -20,11 +20,11 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/qXiRlwQpdEAuBQeQ07GLWDjNcMJCNvVX0qHz_SZdLgm7xwztr13tZNyYhce8DTHdS92BvI-4RUnJcodJYA">](https://music.youtube.com/watch?v=B3gcaC2FmOg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/kjzP_FU_tfRLhRDVZW4qdZnK9I7Ojn4NGnj9SsYKxH62YAW9kE_bFtt9cfQOQRQqHNGazmbSnoWG5qI">](https://music.youtube.com/watch?v=tc0oZUyMW1M)
 
-XG - SHOOTING STAR
+fromis_9 - Sea of Moonlight
 
-**Albums**: SHOOTING STAR
+**Albums**: Sea of Moonlight
 
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

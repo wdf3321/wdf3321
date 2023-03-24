@@ -20,11 +20,11 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rtmKpIxqdJIq6xVbDoEIwGWsH75NvtlkvKPzvnrViYjEumZLdkr4W4MwmgB1DAZW83OMBr9f89nNdbp1Gw">](https://music.youtube.com/watch?v=Y4JQokTmBTA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/znHW7BLJsAeOh0gSUlje4XtVukq-7Rgp3JzP0YortjwVT5c_zvQZESm78DdJaSUjPqHtySeRaku2oAZ5">](https://music.youtube.com/watch?v=dj7HLV6VLGg)
 
-부석순 (SEVENTEEN) - 파이팅 해야지（feat. 이영지）
+YENA - Love War（feat. BE'O）
 
-**Albums**: BSS 1st Single Album 'SECOND WIND'
+**Albums**: Love War
 
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

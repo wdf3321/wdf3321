@@ -20,11 +20,11 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9hfHdkfn29cM-rce4feRP14oZmWxx4hAb4Lr885D4rgb703FcBIaC7RXkB_bY5ZatR1YDVX52iWKj0Y">](https://music.youtube.com/watch?v=1UJCm2ZzrnE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rtmKpIxqdJIq6xVbDoEIwGWsH75NvtlkvKPzvnrViYjEumZLdkr4W4MwmgB1DAZW83OMBr9f89nNdbp1Gw">](https://music.youtube.com/watch?v=Y4JQokTmBTA)
 
-fromis_9 - Stay This Way
+부석순 (SEVENTEEN) - 파이팅 해야지（feat. 이영지）
 
-**Albums**: from our Memento Box
+**Albums**: BSS 1st Single Album 'SECOND WIND'
 
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

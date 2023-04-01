@@ -20,11 +20,11 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DykZ7tfe46nR0ktxgzt420S49MidIil1IpxWL234t6h9-kOZduy3e4HNBXuHNKlhkvdqVTEaQpatgG9Y_A">](https://music.youtube.com/watch?v=PpYidUXYscs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0Y-0p2YHXZQAxpiYvV4t7gXFrNzHeopkjjLZCQe4zQZxP260nNea8QdJKF3WrPE2Sp3vp7q8Uyn5qMM">](https://music.youtube.com/watch?v=pgXcMZ0MxUc)
 
-Kep1er - WA DA DA
+fromis_9 - Talk & Talk
 
-**Albums**: FIRST IMPACT
+**Albums**: Talk & Talk
 
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

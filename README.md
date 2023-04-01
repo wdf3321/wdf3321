@@ -20,11 +20,11 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/AIWIRhfv7TSDb1IvZbQiBj6fVxFeTNPUU_yJAYJ7-p4BFQTMFoB54L2_AS09LyZmmb53E0i5mwOoz753">](https://music.youtube.com/watch?v=GpLM6eLLnN4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qxl_0d6kceAJdPFoTmEJW_Nn59YrItMXgE5kZ7i4UVEBwPBzWRHxm3EGCpfGGHpq7NlNc59ARrvaxqzv">](https://music.youtube.com/watch?v=Pd0oZMyckpQ)
 
-tripleS - Generation
+Kep1er - I do! Do you?
 
-**Albums**: Acid Angel from Asia <ACCESS>
+**Albums**: I do! Do you?
 
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

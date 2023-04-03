@@ -20,11 +20,11 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/5UMdM3A_u1sgGqdVs2kByJiayROwF6Lw7g5dvGn31TZ6o-cyPQbwsjXKFnv_Lsp0YL-7MEjfE2oPqtxd">](https://music.youtube.com/watch?v=eqXKd-83fB4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UWM-x77xhcEEAK8tKICtlDSxsYedoFxQhdiDPzW-Ww59DWs7rDQpD_idJQ6h5YEJruURgpEr1O-0oq5Y">](https://music.youtube.com/watch?v=2Kff0U8w-aU)
 
-IVE - Kitsch
+NewJeans - OMG
 
-**Albums**: Kitsch
+**Albums**: NewJeans 'OMG'
 
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

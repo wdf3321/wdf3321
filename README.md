@@ -20,11 +20,11 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Xmxcnf2v_gs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Xmxcnf2v_gs)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Pd6t77dDq0Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Pd6t77dDq0Y)
 
-STAYC - 색안경 (STEREOTYPE)
+fromis_9 - fromis_9 (프로미스나인) 2022 SBS 가요대전 Choreography Video
 
-**Albums**: 7173万 回視聴
+**Albums**: 11万 回視聴
 
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

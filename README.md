@@ -20,11 +20,11 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Pea1zAv_Q1c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Pea1zAv_Q1c)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/FVUPcrbe3zQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=FVUPcrbe3zQ)
 
-fromis_9 - fromis_9 (프로미스나인) ‘Stay This Way’ 2022 KBS 가요대축제 Choreography Video
+fromis_9 - 프로미스나인 (fromis_9) 'flaylist' 'Shawn Mendes, Camila Cabello - Señorita' cover by 지원X서연
 
-**Albums**: 18万 回視聴
+**Albums**: 87万 回視聴
 
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

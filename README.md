@@ -20,11 +20,11 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Isd5ViaHLbg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Isd5ViaHLbg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Pea1zAv_Q1c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Pea1zAv_Q1c)
 
-fromis_9 - [fl▶️ylist] '竹内まりや(Takeuchi Mariya)- Plastic Love' cover by 하영
+fromis_9 - fromis_9 (프로미스나인) ‘Stay This Way’ 2022 KBS 가요대축제 Choreography Video
 
-**Albums**: 107万 回視聴
+**Albums**: 18万 回視聴
 
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

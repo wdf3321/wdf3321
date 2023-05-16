@@ -20,11 +20,11 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/6xfJKmwkfQg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=6xfJKmwkfQg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Pea1zAv_Q1c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Pea1zAv_Q1c)
 
-fromis_9 - 프로미스나인 (fromis_9) 'flaylist' '태연-Rain' cover by 채영
+fromis_9 - fromis_9 (프로미스나인) ‘Stay This Way’ 2022 KBS 가요대축제 Choreography Video
 
-**Albums**: 25万 回視聴
+**Albums**: 18万 回視聴
 
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

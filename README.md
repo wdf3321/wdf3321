@@ -20,11 +20,11 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/FVUPcrbe3zQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=FVUPcrbe3zQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/6xfJKmwkfQg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=6xfJKmwkfQg)
 
-fromis_9 - 프로미스나인 (fromis_9) 'flaylist' 'Shawn Mendes, Camila Cabello - Señorita' cover by 지원X서연
+fromis_9 - 프로미스나인 (fromis_9) 'flaylist' '태연-Rain' cover by 채영
 
-**Albums**: 87万 回視聴
+**Albums**: 25万 回視聴
 
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

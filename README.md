@@ -20,11 +20,11 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aoXcQuxxU2KBmx3S_kAzv3IA9AK8WLDVLirbLQu7uJZE5PNSCKx8ywfBi7fBiZU4WHQCAy-HlOS81eJ_fg">](https://music.youtube.com/watch?v=jqrGdfLlMmc)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Isd5ViaHLbg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Isd5ViaHLbg)
 
-NMB48 - 青春のラップタイム (2023)
+fromis_9 - [fl▶️ylist] '竹内まりや(Takeuchi Mariya)- Plastic Love' cover by 하영
 
-**Albums**: NMB13
+**Albums**: 107万 回視聴
 
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

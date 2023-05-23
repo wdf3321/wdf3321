@@ -20,11 +20,11 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Pea1zAv_Q1c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Pea1zAv_Q1c)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oIb0BXscCbocEDZbC1v61s1V9GUA8eeqpaIZhWEiUOfHQAlw_n3n5cLvJwNnp7dAUn-kkAxWXbz8vfED">](https://music.youtube.com/watch?v=DmFXddyxHSo)
 
-fromis_9 - fromis_9 (프로미스나인) ‘Stay This Way’ 2022 KBS 가요대축제 Choreography Video
+YUKI - Baby, it's you
 
-**Albums**: 18万 回視聴
+**Albums**: Terminal
 
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

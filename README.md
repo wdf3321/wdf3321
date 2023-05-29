@@ -20,11 +20,11 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/oIb0BXscCbocEDZbC1v61s1V9GUA8eeqpaIZhWEiUOfHQAlw_n3n5cLvJwNnp7dAUn-kkAxWXbz8vfED">](https://music.youtube.com/watch?v=DmFXddyxHSo)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/1FliVTcX8bQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=1FliVTcX8bQ)
 
-YUKI - Baby, it's you
+Ado - 新時代 (ウタ from ONE PIECE FILM RED)
 
-**Albums**: Terminal
+**Albums**: 1.3億 回視聴
 
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

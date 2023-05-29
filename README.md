@@ -20,11 +20,11 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/1FliVTcX8bQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=1FliVTcX8bQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mOrY51t7wM_HWL2wT-XPn7-dDqZ8AV2A1glJL2Rg9IebNytIZuIiAFbDXxEC_rcZncS_cbW12ZwT9VA">](https://music.youtube.com/watch?v=iAOTwdlEdVg)
 
-Ado - 新時代 (ウタ from ONE PIECE FILM RED)
+YOASOBI - あの夢をなぞって
 
-**Albums**: 1.3億 回視聴
+**Albums**: あの夢をなぞって
 
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

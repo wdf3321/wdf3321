@@ -20,11 +20,11 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/SOWw8hBR7ek/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=SOWw8hBR7ek)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oIb0BXscCbocEDZbC1v61s1V9GUA8eeqpaIZhWEiUOfHQAlw_n3n5cLvJwNnp7dAUn-kkAxWXbz8vfED">](https://music.youtube.com/watch?v=DmFXddyxHSo)
 
-miwa - miwa 『441』 Music Video
+YUKI - Baby, it's you
 
-**Albums**: 59万 回視聴
+**Albums**: Terminal
 
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

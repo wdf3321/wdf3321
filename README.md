@@ -20,9 +20,9 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/E5y6jhQulaSf1emSY1PF1oXmPlbREbSJdDccxm2fw0D1eUOkSkCeY2NRJfRCVhT_Lf1z5gInxre44hU">](https://music.youtube.com/watch?v=c_Ku4W2iCY0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/E5y6jhQulaSf1emSY1PF1oXmPlbREbSJdDccxm2fw0D1eUOkSkCeY2NRJfRCVhT_Lf1z5gInxre44hU">](https://music.youtube.com/watch?v=cMUcGLwNusU)
 
-fromis_9 - In the Mirror
+fromis_9 - Wishlist
 
 **Albums**: Unlock My World
 

@@ -1,7 +1,9 @@
-
 # About me
+
 Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills and due to the passion for web design, UI/UX, I decided to say "Hello, world." to the front-end development and web world.
+
 ## Languages and Frameworks
+
 <img align="center" src="assets/html.png" width="5%"
 />&emsp;<img align="center" src="assets/css.png" width="5%"
 />&emsp;<img align="center" src="assets/js.png" width="5%"
@@ -15,18 +17,15 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 />&emsp;<img align="center" src="assets/mongodb.png" width="5%"
 />&emsp;<img align="center" src="assets/ai.png" width="5%"
 />&emsp;<img align="center" src="assets/ps.png" width="5%"
-/>&emsp;<img align="center" src="assets/Figma-logo.svg" width="3%"/>
-
+/>&emsp;<img align="center" src="assets/Figma-logo.svg" width="4%"
+/>&emsp;<img align="center" src="assets/docker.svg" width="5%"/>
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/E5y6jhQulaSf1emSY1PF1oXmPlbREbSJdDccxm2fw0D1eUOkSkCeY2NRJfRCVhT_Lf1z5gInxre44hU">](https://music.youtube.com/watch?v=wqYg1gz3EBI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/E5y6jhQulaSf1emSY1PF1oXmPlbREbSJdDccxm2fw0D1eUOkSkCeY2NRJfRCVhT_Lf1z5gInxre44hU">](https://music.youtube.com/watch?v=-jjSeiXb_9Y)
 
-fromis_9 - Prom Night
+fromis_9 - #menow
 
 **Albums**: Unlock My World
 
-
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)
-
-

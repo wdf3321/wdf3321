@@ -22,10 +22,10 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/E5y6jhQulaSf1emSY1PF1oXmPlbREbSJdDccxm2fw0D1eUOkSkCeY2NRJfRCVhT_Lf1z5gInxre44hU">](https://music.youtube.com/watch?v=-jjSeiXb_9Y)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/QSVWpPK8yaY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=QSVWpPK8yaY)
 
-fromis_9 - #menow
+YUKI - YUKI 『Baby, it's you』
 
-**Albums**: Unlock My World
+**Albums**: 307万 回視聴
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

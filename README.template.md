@@ -17,7 +17,7 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 />&emsp;<img align="center" src="assets/mongodb.png" width="5%"
 />&emsp;<img align="center" src="assets/ai.png" width="5%"
 />&emsp;<img align="center" src="assets/ps.png" width="5%"
-/>&emsp;<img align="center" src="assets/Figma-logo.svg" width="4%"/>
+/>&emsp;<img align="center" src="assets/Figma-logo.svg" width="4%"
 />&emsp;<img align="center" src="assets/docker.svg" width="5%"/>
 
 ## Now Playing on {CURRENT_PLAYING_SOURCE}

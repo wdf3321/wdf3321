@@ -1,7 +1,9 @@
-
 # About me
+
 Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills and due to the passion for web design, UI/UX, I decided to say "Hello, world." to the front-end development and web world.
+
 ## Languages and Frameworks
+
 <img align="center" src="assets/html.png" width="5%"
 />&emsp;<img align="center" src="assets/css.png" width="5%"
 />&emsp;<img align="center" src="assets/js.png" width="5%"
@@ -15,8 +17,8 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 />&emsp;<img align="center" src="assets/mongodb.png" width="5%"
 />&emsp;<img align="center" src="assets/ai.png" width="5%"
 />&emsp;<img align="center" src="assets/ps.png" width="5%"
-/>&emsp;<img align="center" src="assets/Figma-logo.svg" width="3%"/>
-
+/>&emsp;<img align="center" src="assets/Figma-logo.svg" width="4%"/>
+/>&emsp;<img align="center" src="assets/docker.svg" width="5%"/>
 
 ## Now Playing on {CURRENT_PLAYING_SOURCE}
 
@@ -26,7 +28,4 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 **Albums**: {CURRENT_PLAYING_ALBUM}
 
-
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)
-
-

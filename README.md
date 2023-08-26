@@ -22,10 +22,10 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/x7_1s7IkR-TA_WB1EMjlsUvORQkrlVxEUVFlxJLhzfrxwSW-cbs2hSYkQXtHGIfJrH-lvQklOqmAU1EM">](https://music.youtube.com/watch?v=khq6T9aHcI8)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/shjVJbTK2E8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=shjVJbTK2E8)
 
-IVE - Kitsch
+Kep1er - Kep1er 케플러 | Radwimps - すずめ(Suzume) 스즈메의 문단속 ost (feat. Toaka) (Cover by YESEO)
 
-**Albums**: I've IVE
+**Albums**: 13万 回視聴
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

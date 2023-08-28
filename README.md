@@ -22,10 +22,10 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/shjVJbTK2E8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=shjVJbTK2E8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/l1ToZSANY888KTSc-HJGn0Fp9n8MbFUQY7Kg8OXMPrA_NItZ1QUeB3H5u6_4QQYpE-EtJHRXbDPMqNs3">](https://music.youtube.com/watch?v=Jg6U0k1kjng)
 
-Kep1er - Kep1er 케플러 | Radwimps - すずめ(Suzume) 스즈메의 문단속 ost (feat. Toaka) (Cover by YESEO)
+tripleS - Girls’ Capitalism
 
-**Albums**: 13万 回視聴
+**Albums**: LOVElution <ↀ>
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

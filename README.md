@@ -22,10 +22,10 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/cHF0-s0kBME/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=cHF0-s0kBME)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/L95MMHKAD2E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=L95MMHKAD2E)
 
-Kep1er - RESCUE TAYO
+Kep1er - Giddy
 
-**Albums**: 22万 回視聴
+**Albums**: 140万 回視聴
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

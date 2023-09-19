@@ -22,9 +22,9 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FzLKj6zFEJna0gRNDeZRH4nuQwEyN-YbCaC-bIGLoia6EhirHUachdvdEdR3VdB7pArgFCW8mtpLPL0">](https://music.youtube.com/watch?v=n7ePZLn9_lQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FzLKj6zFEJna0gRNDeZRH4nuQwEyN-YbCaC-bIGLoia6EhirHUachdvdEdR3VdB7pArgFCW8mtpLPL0">](https://music.youtube.com/watch?v=XCkpalH6Ppk)
 
-NewJeans - Super Shy
+NewJeans - ETA
 
 **Albums**: NewJeans 2nd EP 'Get Up'
 

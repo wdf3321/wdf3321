@@ -22,10 +22,10 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/EjuB2PuG_IrW2lphUbqbfiRa7hxh9jMOGSELjPSWP7ys2RSDN0JPPCUc5WgWu3kxIPgvp-mcSjWeIwmxjg">](https://music.youtube.com/watch?v=eS-NAO3zmn4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7TeSMSmGoV0K2KY-nKJZ9jeDsJKON__8PIfNbarThVjCV6iz5btK8ei2tPcx1aIs43OLiAY7Ewk077mG">](https://music.youtube.com/watch?v=9Hfyg5BtfnI)
 
-LE SSERAFIM - 이브, 프시케 그리고 푸른 수염의 아내
+IVE - Baddie
 
-**Albums**: UNFORGIVEN
+**Albums**: I'VE MINE
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

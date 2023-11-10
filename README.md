@@ -22,10 +22,10 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/EIz09kLzN9k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=EIz09kLzN9k)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/dZs_cLHfnNA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=dZs_cLHfnNA)
 
-AKMU - Love Lee
+LE SSERAFIM - Eve, Psyche & The Bluebeard's wife
 
-**Albums**: 2761万 回視聴
+**Albums**: 7100万 回視聴
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

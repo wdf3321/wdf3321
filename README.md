@@ -22,10 +22,10 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0DgY-1Bl10lB8E2d7Ddo1C4-lPV4wfGrwc01aAhn3kAfYikpd2uopv__p4skqINan_DOw44Ev8PZQE0VoA">](https://music.youtube.com/watch?v=Gqfq_8jPw8Q)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/EIz09kLzN9k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=EIz09kLzN9k)
 
-LE SSERAFIM - Perfect Night
+AKMU - Love Lee
 
-**Albums**: Perfect Night
+**Albums**: 2761万 回視聴
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

@@ -22,10 +22,10 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/dZs_cLHfnNA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=dZs_cLHfnNA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DXa7t_Z9h35cDJL1u3B62Z-wIqcfTvYxEQ42Xy8iHUmRnz4BdSF-KdZzquGEcG1cSNEJpAOr8IABpjmj">](https://music.youtube.com/watch?v=ARD4a1yLwtQ)
 
-LE SSERAFIM - Eve, Psyche & The Bluebeard's wife
+Billlie - DANG! (hocus pocus) - Japanese ver. -
 
-**Albums**: 7100万 回視聴
+**Albums**: Knock-on Effect
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

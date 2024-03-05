@@ -22,10 +22,10 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/YCVlrT9ctrW4NOPQ232m87-4azhX4UBkjQamrGxk-PPHLVb4m8z-5QnHTicrPXZHWea13Lrhs2in0rKoew">](https://music.youtube.com/watch?v=AO6BlpKi3G0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DXa7t_Z9h35cDJL1u3B62Z-wIqcfTvYxEQ42Xy8iHUmRnz4BdSF-KdZzquGEcG1cSNEJpAOr8IABpjmj">](https://music.youtube.com/watch?v=jAAWVq2NHIk)
 
-ZEROBASEONE - In Bloom
+Billlie - DOMINO ~ butterfly effect - Japanese ver. -
 
-**Albums**: YOUTH IN THE SHADE
+**Albums**: Knock-on Effect
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

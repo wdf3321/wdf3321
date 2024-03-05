@@ -22,10 +22,10 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7wWBzMeVatvNzykaNBbAK25Mb4gohdoGZT3mlJeBgp81Uo4RoM5M3YhO1iPmyjRLFthQAEZG2OAW7U8">](https://music.youtube.com/watch?v=AzYxoB-Lm_U)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/l1ToZSANY888KTSc-HJGn0Fp9n8MbFUQY7Kg8OXMPrA_NItZ1QUeB3H5u6_4QQYpE-EtJHRXbDPMqNs3">](https://music.youtube.com/watch?v=Jg6U0k1kjng)
 
-NMIXX - Party O'Clock
+tripleS - Girls’ Capitalism
 
-**Albums**: A Midsummer NMIXX's Dream
+**Albums**: LOVElution <ↀ>
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

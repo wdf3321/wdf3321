@@ -22,10 +22,10 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fGyO1GPZD58zX8Uu5ghmN2mGOKzaznxXwQymA95kBw_ZKKVAYUQszvw1B8Yfc7E3svDTisSOrDhjHtA">](https://music.youtube.com/watch?v=LWSoGnmqbJw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YCVlrT9ctrW4NOPQ232m87-4azhX4UBkjQamrGxk-PPHLVb4m8z-5QnHTicrPXZHWea13Lrhs2in0rKoew">](https://music.youtube.com/watch?v=AO6BlpKi3G0)
 
-Kep1er - Tropical Light (Sung by YUJIN, XIAOTING, YOUNGEUN, YESEO)
+ZEROBASEONE - In Bloom
 
-**Albums**: Magic Hour
+**Albums**: YOUTH IN THE SHADE
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

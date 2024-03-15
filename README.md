@@ -22,10 +22,10 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fGyO1GPZD58zX8Uu5ghmN2mGOKzaznxXwQymA95kBw_ZKKVAYUQszvw1B8Yfc7E3svDTisSOrDhjHtA">](https://music.youtube.com/watch?v=LWSoGnmqbJw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DXa7t_Z9h35cDJL1u3B62Z-wIqcfTvYxEQ42Xy8iHUmRnz4BdSF-KdZzquGEcG1cSNEJpAOr8IABpjmj">](https://music.youtube.com/watch?v=jAAWVq2NHIk)
 
-Kep1er - Tropical Light (Sung by YUJIN, XIAOTING, YOUNGEUN, YESEO)
+Billlie - DOMINO ~ butterfly effect - Japanese ver. -
 
-**Albums**: Magic Hour
+**Albums**: Knock-on Effect
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

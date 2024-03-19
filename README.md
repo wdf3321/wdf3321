@@ -22,9 +22,9 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DXa7t_Z9h35cDJL1u3B62Z-wIqcfTvYxEQ42Xy8iHUmRnz4BdSF-KdZzquGEcG1cSNEJpAOr8IABpjmj">](https://music.youtube.com/watch?v=tiSyj9BMHGY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DXa7t_Z9h35cDJL1u3B62Z-wIqcfTvYxEQ42Xy8iHUmRnz4BdSF-KdZzquGEcG1cSNEJpAOr8IABpjmj">](https://music.youtube.com/watch?v=1tA6GAVEOo0)
 
-Billlie - BYOB (bring your own best friend) - Japanese ver. -
+Billlie - GingaMingaYo (the strange world) - Japanese ver. -
 
 **Albums**: Knock-on Effect
 

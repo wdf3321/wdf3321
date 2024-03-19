@@ -22,10 +22,10 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FzLKj6zFEJna0gRNDeZRH4nuQwEyN-YbCaC-bIGLoia6EhirHUachdvdEdR3VdB7pArgFCW8mtpLPL0">](https://music.youtube.com/watch?v=0c7zGU2C2mM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oFrIVhQCVshMYSzuVuAX6eY1oF4JcDRDF2u5t3JyGxXFoPjowRLEXopF53V00UWGMD2YxuwPkNCN55w">](https://music.youtube.com/watch?v=pMVpKyipkWU)
 
-NewJeans - Super Shy
+NewJeans - Zero
 
-**Albums**: NewJeans 'Super Shy'
+**Albums**: Zero
 
 ![profile views](https://komarev.com/ghpvc/?username=wdf3321)

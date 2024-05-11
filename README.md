@@ -22,9 +22,9 @@ Hello, I'm Yutung Yang, a front-end developer, after learning front-end skills a
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/YXm4kIIAbM1nC4pSEuMusqWHyAwfCS1CoSfpdaiMTZ2eEzdlk_SlfX3oWdF65lxJBmg9lxkeDJ8zjZPc">](https://music.youtube.com/watch?v=gVl5RmTRBXY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YXm4kIIAbM1nC4pSEuMusqWHyAwfCS1CoSfpdaiMTZ2eEzdlk_SlfX3oWdF65lxJBmg9lxkeDJ8zjZPc">](https://music.youtube.com/watch?v=-SkBaHzpfNg)
 
-tripleS - Girls Never Die
+tripleS - Heart Raider
 
 **Albums**: <ASSEMBLE24>
 
